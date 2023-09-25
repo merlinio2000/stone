@@ -34,5 +34,22 @@
     }
   ],
   "editor:open-search-replace": [],
-  "editor:toggle-checklist-status": []
+  "editor:toggle-checklist-status": [],
+  "editor:insert-mathblock": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:toggle-inline-math": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
 }
