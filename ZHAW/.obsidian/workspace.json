@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT Recht/ITR 1.md",
+                "file": "ITS/week2/Basics Kryptographie.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT Recht/ITR 1.md",
+                "file": "ITS/week2/Basics Kryptographie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT Recht/ITR 1.md",
+                "file": "ITS/week2/Basics Kryptographie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT Recht/ITR 1.md"
+                "file": "ITS/week2/Basics Kryptographie.md"
               }
             }
           }
@@ -149,17 +149,26 @@
   },
   "active": "44c28f1ea1f993f1",
   "lastOpenFiles": [
-    "Untitled.md",
+    "ITS/week2/Pasted image 20230925153827.png",
+    "ITS/week2/Basics Kryptographie.md",
+    "PSPP/week2/PSPP week2.md",
     "IT Recht/ITR 1.md",
+    "ITS/week2",
+    "ITS",
+    "CT/week1/CT 1.md",
+    "PSPP/week2",
+    "PSPP",
+    "CT/week1",
+    "MLDM/week1/MLDM 1.md",
+    "CT",
+    "MLDM/week1",
     "Untitled.canvas",
-    "MLDM/Pasted image 20230920195827.png",
+    "MLDM/week1/Pasted image 20230920195827.png",
     "IT Recht",
-    "MLDM/MLDM 1.md",
-    "MLDM/Pasted image 20230920193548.png",
-    "MLDM/Pasted image 20230920193912.png",
-    "MLDM/Pasted image 20230920195637.png",
-    "MLDM/MLDM LAB.md",
-    "MLDM",
-    "CT.md"
+    "MLDM/week1/Pasted image 20230920193548.png",
+    "MLDM/week1/Pasted image 20230920193912.png",
+    "MLDM/week1/Pasted image 20230920195637.png",
+    "MLDM/week1/MLDM LAB.md",
+    "MLDM"
   ]
 }
