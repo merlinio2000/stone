@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44c28f1ea1f993f1",
+            "id": "6480515bdf18dafd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITS/week2/Basics Kryptographie.md",
+                "file": "MLDM/week3/Polynomial Regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a83a311aa1d119b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MLDM/week3/Gradient Descent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "570ef5c881d7bcf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MLDM/week2/MLDM 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ef24bfd54af42b15",
@@ -86,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITS/week2/Basics Kryptographie.md",
+                "file": "MLDM/week3/Polynomial Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITS/week2/Basics Kryptographie.md",
+                "file": "MLDM/week3/Polynomial Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITS/week2/Basics Kryptographie.md"
+                "file": "MLDM/week3/Polynomial Regression.md"
               }
             }
           }
@@ -147,28 +170,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44c28f1ea1f993f1",
+  "active": "6480515bdf18dafd",
   "lastOpenFiles": [
-    "ITS/week2/Pasted image 20230925153827.png",
-    "ITS/week2/Basics Kryptographie.md",
-    "PSPP/week2/PSPP week2.md",
+    "Untitled.md",
+    "MLDM/week3/Polynomial Regression.md",
+    "MLDM/week3/Gradient Descent.md",
+    "MLDM/week2/MLDM 2.md",
+    "MLDM/week3/over_under_fitting.png",
+    "MLDM/week3/learning_rate.png",
+    "IT Recht/ITR 2.md",
+    "MLDM/week3",
+    "MLDM/week2/Pasted image 20230927211845.png",
     "IT Recht/ITR 1.md",
+    "ITR.md",
+    "IT RECT",
+    "MLDM/week1/MLDM 1.md",
+    "CT/week2/CT 2.md",
+    "MLDM/week2",
+    "MLDM/week1/MLDM LAB 1.md",
+    "CT/week2",
+    "MLDM/week1/LAB1_result.png",
+    "LAB1_result.png.md",
+    "ITS/week2/Basics Kryptographie.md",
+    "ITS/week2/Pasted image 20230925153827.png",
+    "PSPP/week2/PSPP week2.md",
     "ITS/week2",
     "ITS",
     "CT/week1/CT 1.md",
     "PSPP/week2",
     "PSPP",
     "CT/week1",
-    "MLDM/week1/MLDM 1.md",
     "CT",
-    "MLDM/week1",
     "Untitled.canvas",
     "MLDM/week1/Pasted image 20230920195827.png",
-    "IT Recht",
     "MLDM/week1/Pasted image 20230920193548.png",
     "MLDM/week1/Pasted image 20230920193912.png",
-    "MLDM/week1/Pasted image 20230920195637.png",
-    "MLDM/week1/MLDM LAB.md",
-    "MLDM"
+    "MLDM/week1/Pasted image 20230920195637.png"
   ]
 }
