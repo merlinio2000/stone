@@ -4,46 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d393c5dd1aca09a3",
+        "id": "c1f0db9d6b187700",
         "type": "tabs",
         "children": [
           {
-            "id": "6480515bdf18dafd",
+            "id": "b561bed5bcdc7718",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MLDM/week3/Polynomial Regression.md",
+                "file": "MLDM/week4/Classification.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a83a311aa1d119b5",
+            "id": "7fd2219b30a3fe7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MLDM/week3/Gradient Descent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "570ef5c881d7bcf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MLDM/week2/MLDM 2.md",
+                "file": "MLDM/week4/Classification.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MLDM/week3/Polynomial Regression.md",
+                "file": "MLDM/week4/Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MLDM/week3/Polynomial Regression.md",
+                "file": "MLDM/week4/Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MLDM/week3/Polynomial Regression.md"
+                "file": "MLDM/week4/Classification.md"
               }
             }
           }
@@ -170,17 +159,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6480515bdf18dafd",
+  "active": "21a579061268f196",
   "lastOpenFiles": [
-    "Untitled.md",
+    "MLDM/week4/outlier_sens_NOK.png",
+    "MLDM/week4/outlier_sens_OK.png",
+    "MLDM/week4/one-vs-rest.png",
+    "MLDM/week4/sigmoid_hypothesis.png",
+    "MLDM/week4/logistic_sigmoid.png",
+    "MLDM/week4/Classification.md",
+    "MLDM/week4",
+    "ITS/week4/QUIC.md",
+    "ITS/week4/TLS.md",
+    "ITS/week4/TLS_record.png",
+    "IT Recht/ITR 2.md",
+    "IT Recht/ITR 3.md",
+    "ITS/week4",
+    "CT/week3/Assembly Basics.md",
     "MLDM/week3/Polynomial Regression.md",
     "MLDM/week3/Gradient Descent.md",
     "MLDM/week2/MLDM 2.md",
-    "MLDM/week3/over_under_fitting.png",
-    "MLDM/week3/learning_rate.png",
-    "IT Recht/ITR 2.md",
+    "MLDM/week3/mini-batch_gd.png",
+    "MLDM/week3/batch_gd.png",
+    "MLDM/week3/SGD.png",
+    "CT/week3/c_example.png",
+    "CT/week3/pseudo_example.png",
+    "CT/week3",
+    "Untitled.md",
     "MLDM/week3",
-    "MLDM/week2/Pasted image 20230927211845.png",
     "IT Recht/ITR 1.md",
     "ITR.md",
     "IT RECT",
@@ -189,22 +194,13 @@
     "MLDM/week2",
     "MLDM/week1/MLDM LAB 1.md",
     "CT/week2",
-    "MLDM/week1/LAB1_result.png",
     "LAB1_result.png.md",
     "ITS/week2/Basics Kryptographie.md",
-    "ITS/week2/Pasted image 20230925153827.png",
     "PSPP/week2/PSPP week2.md",
     "ITS/week2",
     "ITS",
     "CT/week1/CT 1.md",
     "PSPP/week2",
-    "PSPP",
-    "CT/week1",
-    "CT",
-    "Untitled.canvas",
-    "MLDM/week1/Pasted image 20230920195827.png",
-    "MLDM/week1/Pasted image 20230920193548.png",
-    "MLDM/week1/Pasted image 20230920193912.png",
-    "MLDM/week1/Pasted image 20230920195637.png"
+    "Untitled.canvas"
   ]
 }
