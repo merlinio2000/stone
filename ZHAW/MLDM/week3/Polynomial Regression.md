@@ -42,7 +42,11 @@ Solution: learn this data from the training, called **regularization** which aim
 
 For this a new term is added to the cost function
 $$
-J(\theta) = \frac{1}{2M} \left[ \sum_{m=1}^M(y_m - h(x_m))^2 + \lambda \sum_{j=1}^n \theta_j^2 \right]
+J(\theta) = \frac{1}{2M} \left[ \sum_{m=1}^M(y_m - h_\theta(x_m))^2 + \lambda \sum_{j=1}^n \theta_j^2 \right]
+$$
+Hypothesis:
+$$
+h_\theta(x) = \theta^T x = \sum_{j=1}^n \theta_j * x_j
 $$
 
 ### NOTE
@@ -58,3 +62,5 @@ For a good result all these hyperparameters must be well balanced between each o
 
 With smaller datasets these can be evaluated with **grid search**. simply trying out the combinations
 In more complex situations heuristics like **local search** or **simmulated annealing**
+
+**Genetic Algorithms** using selection, crossover and mutation to improve populations of hyperparameter settings over time.

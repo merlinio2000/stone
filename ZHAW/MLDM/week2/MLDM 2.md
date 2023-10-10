@@ -1,5 +1,7 @@
 some definitions:
 - Median $\mu$
+- $m$ samples
+- $n$ features
 # Linear Regression
 #linear-regression 
 Given $M$ samples $(x_m, y_m)$
