@@ -6,7 +6,7 @@ contrast to regression: instead of continuous $y$ values data comes in pairs of 
 **Binary classification** is a special case where $y$ is only of two outcomes (true/false)
 
 
-## Linear Regression based Classification
+## Sigmoid / Linear Regression based Classification
 
 Use of **sigmoid** functions to approximate the "hard" step nature of classification with a function $g$ :
 Example of the **logistic sigmoid**
@@ -15,7 +15,7 @@ Function is:
 - continuous
 - differentiable
 - $\hat{y} \in (0, 1)$
-- monotonically increasing
+- monotonic 
 
 $$
 g(z) = \frac{1}{1 + e^{-z}}
@@ -102,6 +102,7 @@ classfication -> **proportion-correct accuracy** often abbreviated as **accuracy
 - higher values are better (not like MSE)
 
 A good question to ask when "rating" the accuracy is comparing against how high the accuracy would be if the model always simply predicts the most common classification.
+For this values $\hat{y} > \textrm{Threshold } \tau$  count as positive (1) and $\hat{y} \le \tau$ as negative
 
 
 
