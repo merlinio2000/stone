@@ -29,7 +29,8 @@ Overfitted data usually looks ok for trained data but easily falls apart on untr
 
 ![[over_under_fitting.png]]
 
-
+Under-/Overfitting are also termed as **bias / variance** respectively
+ 
 
 
 

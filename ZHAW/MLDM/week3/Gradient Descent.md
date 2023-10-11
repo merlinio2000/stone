@@ -30,7 +30,7 @@ $$
 \sum_{i=1}^m \left(h_\theta(x^{(i)}) - y^{(i)} \right) x_j^{(i)} 
 \qquad \forall j = 1,...,n
 $$
-Linear regression has a concave cost -> **every** local minimum is a global minimum
+Univariate linear regression has a concave cost -> **every** local minimum is a global minimum
 
 
 ## Learning Rate
@@ -45,7 +45,7 @@ can be either:
 
 Start with a high learning rate, gradually "decay" to a lower rate, e.g.
 $$
- \alpha_t = \frac{1}{1 + decayrate + t}
+ \alpha_t = \frac{1}{1 + decayrate * t} * \alpha_0
 $$
 
 
