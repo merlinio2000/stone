@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1f0db9d6b187700",
+        "id": "680a7123742c1c61",
         "type": "tabs",
         "children": [
           {
-            "id": "b561bed5bcdc7718",
+            "id": "d617c8af03632b76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,18 @@
             }
           },
           {
-            "id": "7fd2219b30a3fe7c",
+            "id": "a3d2c5a81b0a8682",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MLDM/week4/Classification.md",
+                "file": "MLDM/week3/Gradient Descent.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ef24bfd54af42b15",
@@ -159,30 +159,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21a579061268f196",
+  "active": "d617c8af03632b76",
   "lastOpenFiles": [
-    "MLDM/week4/outlier_sens_NOK.png",
-    "MLDM/week4/outlier_sens_OK.png",
-    "MLDM/week4/one-vs-rest.png",
-    "MLDM/week4/sigmoid_hypothesis.png",
-    "MLDM/week4/logistic_sigmoid.png",
+    "MLDM/week3/Polynomial Regression.md",
     "MLDM/week4/Classification.md",
+    "MLDM/week3/Gradient Descent.md",
+    "MLDM/week2/MLDM 2.md",
+    "CT/week4/Arithmetic Operations.md",
+    "CT/week4/carry_overflow_add2.png",
+    "CT/week4/carry_overflow_add.png",
+    "CT/week4/tc_alu_impl.png",
+    "CT/week4/rsbs_instr.png",
+    "CT/week4/signed_unsigned.png",
+    "Pasted image 20231011181157.png",
+    "CT/week4/adds.png",
+    "CT/week4/add_instr_summary.png",
+    "CT/week4/adds_imm_2_instr.png",
+    "CT/week4/adds_imm_1_instr.png",
+    "CT/week3/Assembly Basics.md",
+    "CT/week4",
     "MLDM/week4",
     "ITS/week4/QUIC.md",
     "ITS/week4/TLS.md",
-    "ITS/week4/TLS_record.png",
     "IT Recht/ITR 2.md",
     "IT Recht/ITR 3.md",
     "ITS/week4",
-    "CT/week3/Assembly Basics.md",
-    "MLDM/week3/Polynomial Regression.md",
-    "MLDM/week3/Gradient Descent.md",
-    "MLDM/week2/MLDM 2.md",
-    "MLDM/week3/mini-batch_gd.png",
-    "MLDM/week3/batch_gd.png",
-    "MLDM/week3/SGD.png",
-    "CT/week3/c_example.png",
-    "CT/week3/pseudo_example.png",
     "CT/week3",
     "Untitled.md",
     "MLDM/week3",
@@ -200,7 +201,6 @@
     "ITS/week2",
     "ITS",
     "CT/week1/CT 1.md",
-    "PSPP/week2",
     "Untitled.canvas"
   ]
 }
