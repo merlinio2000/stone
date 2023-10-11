@@ -57,6 +57,12 @@ copy value from **REGISTER** `Rm` to **REGISTER** `Rd`
 
 
 
+
+
+#todo add STR instruction
+
+
+
 ## Literal Pool
 Convenient localtion in the code segment where the assembler allocates and initializes memory. Used by e.g. [[#Load - `LDR` (literal)]]
 
