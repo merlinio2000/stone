@@ -131,9 +131,13 @@ Summary:
 
 
 
+### Mutliplication
 
+### MULS (register)
+- Result requires twice as many bits
+- **SIGNED AND UNSIGNED** must as always be taken into account by the programmer
 
-
+![[instr_muls.png]]
 
 
 ## Carry vs Overflow
@@ -143,3 +147,22 @@ also see [[#APSR (Application Program Status Register)]]
 ![[carry_overflow_add.png]]
 
 ![[carry_overflow_add2.png]]
+
+
+
+
+
+
+
+
+## Multi-Byte Arithmetic
+
+
+### Multi Word addition ADCS
+![[multiword_add.png]]
+
+
+
+### Multi Word subtraction SUBCS 
+
+![[mutliword_sub.png]]
