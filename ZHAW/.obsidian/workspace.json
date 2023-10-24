@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c799d0cdd353f985",
+            "id": "aaa6c428dee435c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MLDM/week5/Supervised Learning.md",
+                "file": "MLDM/week6/Support Vector Machines.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ef24bfd54af42b15",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MLDM/week5/Supervised Learning.md",
+                "file": "MLDM/week6/Support Vector Machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MLDM/week5/Supervised Learning.md",
+                "file": "MLDM/week6/Support Vector Machines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MLDM/week5/Supervised Learning.md"
+                "file": "MLDM/week6/Support Vector Machines.md"
               }
             }
           }
@@ -159,29 +158,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21a579061268f196",
+  "active": "aaa6c428dee435c4",
   "lastOpenFiles": [
+    "MLDM/week6/max_margin_geom.png",
+    "MLDM/week6/max_margin_construction.png",
+    "MLDM/week6/Support Vector Machines.md",
+    "MLDM/week6/max_margin_classifier.png",
+    "MLDM/week6/2d_hyperplane_example.png",
+    "MLDM/week5/Supervised Learning.md",
+    "MLDM/week6",
+    "ITR/Verhandlungen.md",
+    "ITS/week6/netfilter.png",
+    "ITS/week6/casb.png",
+    "ITS/week6/swg.png",
+    "ITS/week7",
+    "Untitled",
+    "ITS/week6/waf_architecture.png",
+    "PSPP/week5/Prolog.md",
+    "ITS/week6/Network Security.md",
+    "ITS/week6",
+    "ITR/IT Verträge.md",
+    "ITR/ITR 5.md",
     "MLDM/week5/precision recall curve.png",
     "MLDM/week4/Classification (Logistic Regression).md",
-    "MLDM/week5/Supervised Learning.md",
     "MLDM/week5",
     "CT/week5/Logic Instructions.md",
     "CT/week5/instr_shift_imm.png",
     "CT/week5/instr_shift_register.png",
-    "CT/week5/instr_shift.png",
-    "CT/week5/C_casting_example.png",
-    "CT/week5/instr_bitwise_logic.png",
     "CT/week5/Casting.md",
     "CT/week4/Arithmetic Operations.md",
-    "CT/week4/instr_muls.png",
-    "CT/week4/mutliword_sub.png",
-    "CT/week4/multiword_add.png",
-    "PSPP/week5/Prolog.md",
     "CT/week5",
-    "PSPP/week5/cut_negation.png",
-    "PSPP/week5/prolog_bsp_factorial.png",
     "PSPP/week5/Logik.md",
-    "ITR/ITR 4.md",
     "PSPP/week5",
     "ITR/ITR 3.md",
     "Untitled.md",
@@ -195,18 +202,10 @@
     "ITS/week4/TLS.md",
     "ITR/ITR 2.md",
     "ITS/week4",
-    "CT/week3",
-    "MLDM/week3",
     "ITR/ITR 1.md",
     "ITR.md",
-    "IT RECT",
     "MLDM/week1/MLDM 1.md",
     "CT/week2/CT 2.md",
-    "MLDM/week2",
-    "MLDM/week1/MLDM LAB 1.md",
-    "LAB1_result.png.md",
-    "ITS/week2/Basics Kryptographie.md",
-    "PSPP/week2/PSPP week2.md",
     "Untitled.canvas"
   ]
 }
