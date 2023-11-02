@@ -30,4 +30,8 @@
 ### Register Instructions
 
 ![[instr_shift_register.png]]
+
+
+### Immediate Instructions
+
 ![[instr_shift_imm.png]]

@@ -29,8 +29,22 @@ Overfitted data usually looks ok for trained data but easily falls apart on untr
 
 ![[over_under_fitting.png]]
 
-Under-/Overfitting are also termed as **bias / variance** respectively
- 
+
+## Bias / Variance
+
+https://medium.com/analytics-vidhya/elucidating-bias-variance-under-fitting-and-over-fitting-273846621622
+low bias & high variance -> overfitting
+high bias & low variance -> underfitting
+
+**Bias**: difference between the average prediction of the model and the correct value.
+	A model with high bias pays little attention to the training data and oversimplifies the model
+
+**Variance**: Variability of model prediction for a given data point or generally a value that represents the **spread of the data** 
+- Models with high variance pay a lot of attention to training data and dont generalize well on unseen data
+- small change in training data would lead to a large change inte predictions
+
+![[bias_variance.png]]
+
 
 
 
