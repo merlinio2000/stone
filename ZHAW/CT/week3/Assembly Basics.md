@@ -1,3 +1,9 @@
+
+# 32-BIT Words ARE ALWAYS STORED 4byte aligned
+see [[#Load - `LDR` (literal)]]
+
+
+
 ### C example
 NOTE: compiler does not use [[#Pseudo Instruction]] in this case, see 3)
 ![[c_example.png]]

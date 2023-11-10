@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e8ce329d80011228",
+        "id": "dcc9972c03fe4a9e",
         "type": "tabs",
         "children": [
           {
-            "id": "b423e273f161b81e",
+            "id": "23794f18640f6766",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MLDM/week3/Polynomial Regression.md",
+                "file": "MLDM/week8/Encoding.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "89dfe13c57a94d38",
+            "id": "2af8055356fbe53a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MLDM/week6_7/Support Vector Machines.md",
+                "file": "CT/week3/Assembly Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "TLS Hand",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ef24bfd54af42b15",
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MLDM/week3/Polynomial Regression.md",
+                "file": "CT/week3/Assembly Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MLDM/week3/Polynomial Regression.md",
+                "file": "CT/week3/Assembly Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MLDM/week3/Polynomial Regression.md"
+                "file": "CT/week3/Assembly Basics.md"
               }
             }
           }
@@ -158,54 +160,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21a579061268f196",
+  "active": "2af8055356fbe53a",
   "lastOpenFiles": [
-    "MLDM/week3/bias_variance.png",
-    "MLDM/week6_7/Support Vector Machines.md",
-    "MLDM/week3/Polynomial Regression.md",
-    "MLDM/week6_7/common_kernel_function.png",
-    "MLDM/week6_7/lifting_trick.png",
-    "MLDM/week6_7/kernels_ex.png",
+    "MLDM/week8/Random Forests.md",
+    "MLDM/week8/Encoding.md",
+    "MLDM/week8/rand_forest_bagging.png",
+    "MLDM/week8/rand_forest_ensemble.png",
+    "MLDM/week8/Decision Trees.md",
+    "MLDM/week8/proc_train_decision_tree.png",
     "CT/week7/Stack.md",
-    "CT/week7/Subroutines.md",
+    "CT/week3/Assembly Basics.md",
+    "CT/week2/CT 2.md",
+    "CT/week1/CT 1.md",
     "CT/week6/Branches.md",
-    "CT/week7/sp_instr.png",
-    "CT/week7/add_sp_reg.png",
-    "CT/week7/add_sub_sp.png",
-    "CT/week7/nested_subroutines.png",
-    "CT/week7/push_instr_versions.png",
-    "CT/week7/pop_instr.png",
-    "CT/week7/push_instr_ex_2.png",
+    "CT/week7/Stack Exer.md",
+    "CT/week7/sp_ldr_str.png",
+    "CT/week7/sp_add.png",
+    "CT/week7/sp_add_sub.png",
+    "ITS/week7/Virtual Private Networks.md",
+    "MLDM/week8/min_samples_leaf_regression_ex.png",
+    "MLDM/week8/min_samples_leaf_class_ex.png",
+    "Untitled.md",
+    "MLDM/week8/regression_tree_max_depth_ex.png",
+    "MLDM/week8/regression_tree_ex.png",
+    "ITS/week4/TLS.md",
+    "ITR/Lizenzvertrag.md",
+    "MLDM/week8",
+    "MLDM/week6_7/Untitled",
+    "ITR/Haftung.md",
+    "ITR/Urheberrecht.md",
+    "ITR/220421, Beispiel Lizenzvertrag,Mf.pdf",
+    "ITR/IT Verträge.md",
+    "ITR/Arbeitsrecht.md",
+    "MLDM/week3/Polynomial Regression.md",
+    "MLDM/week6_7/Support Vector Machines.md",
+    "MLDM/week5/Supervised Learning.md",
+    "CT/week7/Subroutines.md",
     "CT/week7/Control Structures.md",
     "CT/week7",
-    "Untitled.md",
-    "ITR/Arbeitsrecht.md",
-    "MLDM/week5/Supervised Learning.md",
     "PSPP/week5/Prolog.md",
-    "ITR/Lizenzvertrag.md",
     "CT/week5/Logic Instructions.md",
     "CT/week6",
     "MLDM/week4/Classification (Logistic Regression).md",
     "MLDM/week6_7",
-    "ITR/Verhandlungen.md",
     "ITS/week7",
     "Untitled",
-    "ITS/week6/Network Security.md",
     "ITS/week6",
-    "ITR/IT Verträge.md",
-    "ITR/ITR 5.md",
     "MLDM/week5",
-    "CT/week5/Casting.md",
-    "CT/week4/Arithmetic Operations.md",
-    "CT/week5",
-    "PSPP/week5/Logik.md",
-    "PSPP/week5",
-    "ITR/ITR 3.md",
-    "MLDM/week2/MLDM 2.md",
-    "MLDM/week3/Gradient Descent.md",
-    "CT/week3/Assembly Basics.md",
-    "CT/week4",
-    "ITS/week4/QUIC.md",
     "Untitled.canvas"
   ]
 }

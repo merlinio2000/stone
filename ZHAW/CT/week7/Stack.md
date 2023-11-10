@@ -3,7 +3,12 @@
 - starts from stack-base (initial value of SP)
 - **ALWAYS** works in WORDs (32-bit) -> SP always WORD aligned
 - Stack-Limit < Stack Pointer < Stack-base
+- **lowest register stored at lowest address (top of stack)** see [[#Example of storage order]]
 
+### Nested Subroutines
+
+- push current LR (link register) onto stack (M-bit [[#Push]])
+- pop LR value back into PC to resume execution at that point ([[#Pop]])
 
 ### Implementation
 
@@ -21,7 +26,7 @@
 - **ONE OR MORE** registered to be stored
 - low registers only (reg_list = one bit per reg)
 - LR (R14) -> M-bit (no other high reg)
-- lowest register stored at lowest address (top of stack)
+- **lowest register stored at lowest address (top of stack)**
 ![[stack_push_instr.png]]
 
 ![[push_instr_versions.png]]
@@ -41,3 +46,16 @@
 - lowest register reloaded first
 - arguments can be specified as `{R1, R3-R6}` like [[#Push]]
 ![[pop_instr.png]]
+
+
+
+# Operations using SP
+
+- can be used in add/subs like any other register
+	- -> SEPARATE OP-CODE
+- LDR and STR also like regular
+	- -> SEPARATE OP-CODE
+
+![[sp_add_sub.png]]
+![[sp_add.png]]
+![[sp_ldr_str.png]]

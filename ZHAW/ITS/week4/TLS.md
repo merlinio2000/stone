@@ -8,6 +8,8 @@
 
 ## Handshake
 
+#sep **IMPORTANT FOR SEP**
+
 Client:
 #### Part A
 - I support TLSv 1.2/1.3

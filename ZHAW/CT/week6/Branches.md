@@ -26,6 +26,9 @@ the Program Counter PC is always **the current address plus 4**
 
 # Unconditional Branches
 
+#todo BLX
+
+#todo BL
 ## B (direct, relative)
 
 #### Immediate
@@ -98,7 +101,7 @@ the Program Counter PC is always **the current address plus 4**
 
 ## Arithmetic Branches
 
-
+achieved through the flags, see [[#Flag dependent Branches]]
 
 
 
