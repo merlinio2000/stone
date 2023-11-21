@@ -16,8 +16,12 @@ The individual models need to be **independent** of eachother, see [[#Bagging]]
 ![[rand_forest_bagging.png]]
 
 
-#todo Out-of-Bag Error
+## Out-of-Bag Error
 
+- out-of-bag (OOB): samples that were not used for training this specific sub-model
+- OOB Error: proportion of OOB samples that were incorrectly classified
+
+![[out_of_bag_error.png]]
 
 ### Hyperparameters
 
