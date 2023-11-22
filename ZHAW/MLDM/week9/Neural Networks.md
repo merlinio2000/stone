@@ -342,6 +342,12 @@ $$\Large
 $$
 
 
+
+## Backpropagation with Multiple Neurons
+
+![[backprop_multiple_neurons.png]]
+
+
 ## Vanishing & Exploding Gradient Problem
 
 - happens especially for many hidden layers
@@ -371,3 +377,5 @@ $$
 	- add random noise
 	- synonym replacement for text
 	- translation between languages
+
+
