@@ -7,6 +7,8 @@
 
 ### Representation of different Data
 
+see also [[Encoding]]
+
 #### Images
 - 2D Array of grayscale pixels
 - 3D Array of pixels + their R, G & B values

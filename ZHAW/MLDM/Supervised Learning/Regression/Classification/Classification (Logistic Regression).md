@@ -17,13 +17,16 @@ Function is:
 - $\hat{y} \in (0, 1)$
 - monotonic 
 
-$$
+$$\Large
 g(z) = \frac{1}{1 + e^{-z}}
 $$
+
+
+
 ![[logistic_sigmoid.png]]
 
 The new hypothesis function $h$ using this sigmoid function would be of the form (for univariate)
-$$
+$$\Large
 h_\theta(x) = g(\theta_0 * x + \theta_1)
 $$
 
@@ -38,13 +41,13 @@ Mathematically similar to linear regression but with a sigmoid function to appro
 In binary problems the value of $\hat{y}$ can be interpreted as the "confidence" of the model in a "positive" (close to 1) outcome, with higher values meaning a higher confidence 
 
 Univariate:
-$$
-\hat{y} = h_\theta(x) = g(\theta_0 x+ \theta_1) = 
-\frac{1}{1 + e^{-(\theta_0 x + \theta_1)}}
+$$\large
+\hat{y} = h_\theta(x) = g(\theta_0 + \theta_1 * x) = 
+\frac{1}{1 + e^{-(\theta_0 + \theta_1 * x)}}
 $$
 
 Multivariate:
-$$
+$$\large
 \hat{y} = h_\theta(x) = g(\theta^T x) = \frac{1}{1 + e^{-\theta^T x}}
 $$
 
@@ -60,20 +63,20 @@ No closed form solution like the normal equation -> gradient descent
 
 Instead of the sum of least residual squares (RSS) a new function called **log loss** is used
 
-$$
+$$\large
 \textrm{Loss}(h_\theta(x), y) = \left\{ \begin{align}-\log(h_\theta(x)) & \quad \textrm{if}\quad y=1 \\
                                                           -\log(1 - h_\theta(x)) & \quad \textrm{if}\quad y=0 \end{align} \right.
 $$
 
 Which is often instead written as 
-$$
+$$\large
 \textrm{Loss}(h_\theta(x), y) = -y \log(h_\theta(x)) - (1 - y) \log(1 - h_\theta(x))
 $$
 
 
 ### Loss function
 
-$$
+$$\Large
 J(\theta) = \frac{1}{M} \sum_{m=1}^M \textrm{Loss}(h_\theta(x_m), y_m)
 $$
 
