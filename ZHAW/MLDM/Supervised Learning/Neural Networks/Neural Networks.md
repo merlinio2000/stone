@@ -189,7 +189,6 @@ Based on the **chain rule for partial derivatives**
 based on the following model:
 ![[backprop_ex_single.png]]
 
-
 - Training data is one sample with (in, out) = $(x, y)$
 - $L$ layers, each one neuron
 - input node $a^{(0)}$ is not a neuron, it only passes the value into the network
